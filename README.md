@@ -10,4 +10,4 @@
 
 ## Screenshots
 
-![alt text]( "Screenshot 1")
+![alt text](https://github.com/anuranBarman/shopping-list-mern-stack/blob/master/screenshots/app.png "Screenshot 1")
